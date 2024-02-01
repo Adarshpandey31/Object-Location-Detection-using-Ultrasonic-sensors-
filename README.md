@@ -1,7 +1,7 @@
 # Object-Location-Detection-using-Ultrasonic-sensors-
-Hello, this is Adarsh Pandey (2001EE85), and I am thrilled to provide an overview of our collaborative project that focused on refining the Arduino IDE programming environment and optimizing ultrasonic sensors. Our team, consisting of five talented members, aimed to push the boundaries of accuracy and performance in Arduino-based systems.
+Hello, this is Adarsh Pandey, and I am thrilled to provide an overview of our collaborative project that focused on refining the Arduino IDE programming environment and optimizing ultrasonic sensors. Our team, consisting of five talented members, aimed to push the boundaries of accuracy and performance in Arduino-based systems.
 
-As the group leader, my role was to ensure a seamless workflow and effective utilization of each team member's skills. The project's success is a result of the dedicated contributions from Medha Singh (2001EE34), Vrutant (2001EE82), Priya (2001EE46), and Shubham (2001EE92).
+As the group leader, my role was to ensure a seamless workflow and effective utilization of each team member's skills. The project's success is a result of the dedicated contributions from Medha Singh, Vrutant, Priya, and Shubham.
 
 This project delves into the enhancement of the Arduino IDE programming environment and the optimization of ultrasonic sensors. Our research aimed at maximizing the accurate distance parameters while significantly increasing overall accuracy by an impressive 65%.
 
